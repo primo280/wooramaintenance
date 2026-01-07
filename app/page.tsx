@@ -42,7 +42,7 @@ export default function MaintenancePage() {
         </h1>
 
         <p className="text-lg md:text-xl text-foreground/80 leading-relaxed max-w-lg font-medium">
-          Woora fait peau neuve ! Nous travaillons sur une nouvelle expérience pour vous offrir les meilleurs opportunités professionnelles.
+          Woora fait peau neuve ! Nous travaillons sur une nouvelle expérience pour vous offrir les meilleures opportunités professionnelles.
         </p>
 
         {/* Maintenance Badge */}
